@@ -1,0 +1,20 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(90, 160, 88);
+}
+#board{
+    border: 1px solid rgba(255, 255, 255, 0.81);
+}
+ul{
+    list-style: none;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: red; /* Change to your desired color */
+}
+#heart{
+    text-decoration: inherit;
+}
